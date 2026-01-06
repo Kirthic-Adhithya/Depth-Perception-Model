@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & generated files
+data/
+pseudo_data/
+outputs/
+data_depth_selection/
+devkit_depth/
+models/
